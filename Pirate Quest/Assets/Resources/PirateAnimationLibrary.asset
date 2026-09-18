@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0566af03deb62a4569902f5fc50ea75, type: 3}
+  m_Name: PirateAnimationLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::PirateAnimationLibrary
+  idle:
+    frames:
+    - {fileID: 790918569, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    - {fileID: 405114653, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    - {fileID: -356728948, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    - {fileID: -57320393, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    framesPerSecond: 5
+    loop: 1
+  run:
+    frames:
+    - {fileID: 1143083414, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    - {fileID: -704418987, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    - {fileID: 1030660069, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    - {fileID: -390667592, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    - {fileID: 19612242, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    - {fileID: -285153518, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    - {fileID: 1600595719, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    - {fileID: -1918067915, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    framesPerSecond: 12
+    loop: 1
+  jump:
+    frames:
+    - {fileID: -1145027040, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    framesPerSecond: 1
+    loop: 0
+  jumpApex:
+    frames:
+    - {fileID: -1162063973, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    framesPerSecond: 1
+    loop: 0
+  fall:
+    frames:
+    - {fileID: 254132791, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    framesPerSecond: 1
+    loop: 0
+  grapple:
+    frames:
+    - {fileID: 668312484, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    framesPerSecond: 1
+    loop: 0
+  dash:
+    frames:
+    - {fileID: -1162063973, guid: 47bf2e5204b56d84e9ef50118c519066, type: 3}
+    framesPerSecond: 1
+    loop: 0

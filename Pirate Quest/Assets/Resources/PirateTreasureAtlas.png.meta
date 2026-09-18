@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 6fc609074caa5f245a2fae6827207294
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9081479783266363913
+    second: PirateTreasureAtlas_0
+  - first:
+      213: 2121674885963382694
+    second: PirateTreasureAtlas_1
+  - first:
+      213: 1294413013106064703
+    second: PirateTreasureAtlas_2
+  - first:
+      213: 4979002431744875157
+    second: PirateTreasureAtlas_3
+  - first:
+      213: -8031709226030440022
+    second: PirateTreasureAtlas_4
+  - first:
+      213: 5705620922451566303
+    second: PirateTreasureAtlas_5
+  - first:
+      213: 8694790877209797422
+    second: PirateTreasureAtlas_6
+  - first:
+      213: -775745956430780354
+    second: PirateTreasureAtlas_7
+  - first:
+      213: -5202925575041259070
+    second: PirateTreasureAtlas_8
+  - first:
+      213: 1432093045568882406
+    second: PirateTreasureAtlas_9
+  - first:
+      213: -2571942874376279188
+    second: PirateTreasureAtlas_10
+  - first:
+      213: 7560094451123858097
+    second: PirateTreasureAtlas_11
+  - first:
+      213: 5388580441967951005
+    second: PirateTreasureAtlas_12
+  - first:
+      213: -3920901088360486630
+    second: PirateTreasureAtlas_13
+  - first:
+      213: -2866860932760662478
+    second: PirateTreasureAtlas_14
+  - first:
+      213: -4123354082080294399
+    second: PirateTreasureAtlas_15
+  - first:
+      213: -4360335464963865420
+    second: PirateTreasureAtlas_16
+  - first:
+      213: -3096376237060951065
+    second: PirateTreasureAtlas_17
+  - first:
+      213: 4642409535901901433
+    second: PirateTreasureAtlas_18
+  - first:
+      213: 4194837059864897798
+    second: PirateTreasureAtlas_19
+  - first:
+      213: -1418893971821398048
+    second: PirateTreasureAtlas_20
+  - first:
+      213: 8156743489865156905
+    second: PirateTreasureAtlas_21
+  - first:
+      213: 1796074257176948135
+    second: PirateTreasureAtlas_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: treasure_00_doubloon
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 724
+        width: 390
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbda7a43379b42419a63d21a0a3e0a6
+      internalID: -1665870376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_01_gem
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 732
+        width: 417
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a5b1d066876ac4296d909e3e52cde3
+      internalID: -1132663714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_02_relic
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 106
+        width: 314
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac153399d8c978b4489b276599025a80
+      internalID: 586703810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasure_03_letter
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 112
+        width: 499
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d77c4a1453bec040ba23b37e694f9ea
+      internalID: 1364407079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bf0f2595041b09f4c8b98d4a6e1fd33c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      treasure_00_doubloon: -1665870376
+      treasure_01_gem: -1132663714
+      treasure_02_relic: 586703810
+      treasure_03_letter: 1364407079
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

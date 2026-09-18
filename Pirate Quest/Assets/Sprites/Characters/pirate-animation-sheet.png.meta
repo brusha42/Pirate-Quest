@@ -1,0 +1,573 @@
+fileFormatVersion: 2
+guid: 47bf2e5204b56d84e9ef50118c519066
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9081335168101750560
+    second: pirate-animation-sheet_0
+  - first:
+      213: -7773988874623987080
+    second: pirate-animation-sheet_1
+  - first:
+      213: -5678857662180956136
+    second: pirate-animation-sheet_2
+  - first:
+      213: -5387361211614889816
+    second: pirate-animation-sheet_3
+  - first:
+      213: -828144864724890212
+    second: pirate-animation-sheet_4
+  - first:
+      213: 4618404739261381673
+    second: pirate-animation-sheet_5
+  - first:
+      213: -720403675358845204
+    second: pirate-animation-sheet_6
+  - first:
+      213: 4266117871595146622
+    second: pirate-animation-sheet_7
+  - first:
+      213: 8620304518009298302
+    second: pirate-animation-sheet_8
+  - first:
+      213: -6428715249298267810
+    second: pirate-animation-sheet_9
+  - first:
+      213: 786850711614672713
+    second: pirate-animation-sheet_10
+  - first:
+      213: 587386949048845967
+    second: pirate-animation-sheet_11
+  - first:
+      213: -6509188707025771760
+    second: pirate-animation-sheet_12
+  - first:
+      213: -4687346768691721435
+    second: pirate-animation-sheet_13
+  - first:
+      213: 7344881753716633058
+    second: pirate-animation-sheet_14
+  - first:
+      213: -5839033374208421978
+    second: pirate-animation-sheet_15
+  - first:
+      213: 3254537306128894552
+    second: pirate-animation-sheet_16
+  - first:
+      213: 7370627684666816879
+    second: pirate-animation-sheet_17
+  - first:
+      213: -6128397112542690508
+    second: pirate-animation-sheet_18
+  - first:
+      213: -4900720921304891717
+    second: pirate-animation-sheet_19
+  - first:
+      213: 7564588851847637004
+    second: pirate-animation-sheet_20
+  - first:
+      213: 5462936926687021154
+    second: pirate-animation-sheet_21
+  - first:
+      213: 3300964583006295464
+    second: pirate-animation-sheet_22
+  - first:
+      213: -2143545829549823251
+    second: pirate-animation-sheet_23
+  - first:
+      213: -9058233128112373347
+    second: pirate-animation-sheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 212.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirate_idle_00
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 939
+        width: 162
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5308642, y: 0.0072202166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2f06dc413fdc54ab57e5a1f23f2dda
+      internalID: 790918569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_idle_01
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 939
+        width: 178
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5702247, y: 0.0072202166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4f982cbee5d594087a03518db5bb74
+      internalID: 405114653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_idle_02
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 939
+        width: 161
+        height: 277
+      alignment: 9
+      pivot: {x: 0.5372671, y: 0.0072202166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd9e28adb97f9f4eab5bc61c31bb00d
+      internalID: -356728948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_idle_03
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 939
+        width: 169
+        height: 277
+      alignment: 9
+      pivot: {x: 0.556213, y: 0.0072202166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bee636edbd88b488473388925d6c76
+      internalID: -57320393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_run_00
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 645
+        width: 232
+        height: 258
+      alignment: 9
+      pivot: {x: 0.58189654, y: 0.034883723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407df0ab7324d2b4bafff680a07be1a7
+      internalID: 1143083414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_run_01
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 645
+        width: 189
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5, y: 0.031007752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2c8db09649b2b44838a04251c15248
+      internalID: -704418987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_run_02
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 645
+        width: 206
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5606796, y: 0.007751938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a2a239bfbfd1a4193db4c87c1e5c5b
+      internalID: 1030660069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_run_03
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 645
+        width: 239
+        height: 258
+      alignment: 9
+      pivot: {x: 0.58158994, y: 0.011627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2d65ae2ac6ade4aa56002f87c3a342
+      internalID: -390667592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_run_04
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 369
+        width: 227
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5837004, y: 0.0116731515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f297ebb2bc7d364489c7eab0cf8b505
+      internalID: 19612242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_run_05
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 369
+        width: 199
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5, y: 0.015564202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168df511ab160b2499f0ade285d07eb4
+      internalID: -285153518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_run_06
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 369
+        width: 200
+        height: 257
+      alignment: 9
+      pivot: {x: 0.57, y: 0.007782101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4e8439aeac7b3469f2f806db383660
+      internalID: 1600595719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_run_07
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 369
+        width: 218
+        height: 257
+      alignment: 9
+      pivot: {x: 0.5917431, y: 0.035019454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96f1f56ee3f87247b2f4d219d474f8e
+      internalID: -1918067915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_jump_rise
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 56
+        width: 180
+        height: 314
+      alignment: 9
+      pivot: {x: 0.5361111, y: 0.03821656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fa325c67871e248a8c35b455a06753
+      internalID: -1145027040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_jump_apex
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 56
+        width: 182
+        height: 314
+      alignment: 9
+      pivot: {x: 0.5302198, y: 0.27388534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24501b37ec2380d42b38c5a352b06a4d
+      internalID: -1162063973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_fall
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 56
+        width: 208
+        height: 314
+      alignment: 9
+      pivot: {x: 0.50961536, y: 0.10509554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f129e28c88d8c346839d3bffdc0022d
+      internalID: 254132791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_grapple
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 56
+        width: 172
+        height: 314
+      alignment: 9
+      pivot: {x: 0.5523256, y: 0.006369427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f734b759be033444da67d1335b298e8b
+      internalID: 668312484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2be16d2204825564484db23f10c5aa3c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pirate_fall: 254132791
+      pirate_grapple: 668312484
+      pirate_idle_00: 790918569
+      pirate_idle_01: 405114653
+      pirate_idle_02: -356728948
+      pirate_idle_03: -57320393
+      pirate_jump_apex: -1162063973
+      pirate_jump_rise: -1145027040
+      pirate_run_00: 1143083414
+      pirate_run_01: -704418987
+      pirate_run_02: 1030660069
+      pirate_run_03: -390667592
+      pirate_run_04: 19612242
+      pirate_run_05: -285153518
+      pirate_run_06: 1600595719
+      pirate_run_07: -1918067915
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

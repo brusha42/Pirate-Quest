@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56d2c2b2e1d94c5aa4811476c9cf2cf7, type: 3}
+  m_Name: BrineCrawlerArtLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::BrineCrawlerArtLibrary
+  frames:
+  - {fileID: -334888876, guid: c744d1f752634bd4bdcdcb823174b246, type: 3}
+  - {fileID: -2125180877, guid: c744d1f752634bd4bdcdcb823174b246, type: 3}
+  - {fileID: 1672322350, guid: c744d1f752634bd4bdcdcb823174b246, type: 3}
+  - {fileID: -2040486826, guid: c744d1f752634bd4bdcdcb823174b246, type: 3}
+  opaqueBounds:
+  - serializedVersion: 2
+    x: -1.0336179
+    y: 0
+    width: 2.0672357
+    height: 1.2800812
+  - serializedVersion: 2
+    x: -1.0718292
+    y: 0
+    width: 2.1436584
+    height: 1.3106503
+  - serializedVersion: 2
+    x: -0.9934959
+    y: 0
+    width: 1.9869918
+    height: 1.8761787
+  - serializedVersion: 2
+    x: -1.175
+    y: 0
+    width: 2.35
+    height: 1.2877234
+  verifiedTransparency: 1
